@@ -1,0 +1,17 @@
+"""#Task1.1
+msg = "Bonjour les amis"
+print(msg)"""
+
+"""#task 1.2
+msg = "Something"
+print(msg[0])
+print(msg[4])"""
+
+"""#task 1.3
+msg = "Anaconda"
+x = len(msg)
+print(msg[x-1])"""
+
+#task 1.4
+sms = "c'est moi le plus grand de la classe"
+print(sms[4:9])
