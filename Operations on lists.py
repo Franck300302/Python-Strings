@@ -55,10 +55,6 @@ print(magic[2])
 #Challenge
 startingTime = time.time()
 import random
-#numbers = [random.sample(range(1,1000000,10))]
-#numbers = [i for i in range(1000001)]
-#numbers.sort()
-#print(numbers)
 
 i = random.sample(range(1,1000000),100000)
 print(i)
